@@ -1,0 +1,7 @@
+LogisticRegression	[95.8041958041958]
+KNeighborsClassifier	[95.1048951048951]
+SVC_linear      	[97.2027972027972]
+SVC_BRF         	[96.5034965034965]
+GaussianNB       	[91.6083916083916]
+DecisionTreeClassifier	[95.8041958041958]
+RandomForestClassifier	[98.6013986013986]
